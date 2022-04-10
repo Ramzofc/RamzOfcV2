@@ -1,6 +1,6 @@
 # RamzOfcV2
 *Simple Bot WhatsApp*
-━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━
 ## Cara Install Ditermux
 *PENGGUNA TERMUX PEMULA*
 
@@ -21,7 +21,7 @@ $cd/sdcard/(file name/bot)
 $git clone https://github.com/Ramzofc/Node_Modules-
 
 node .
-━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━
 *YANG UDAH LAMA PAKE TERMUX*
 
 $cd/sdcard/(file name/bot) 
