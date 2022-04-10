@@ -22,7 +22,7 @@ $git clone https://github.com/Ramzofc/Node_Modules-
 
 node .
 ━━━━━━━━━━━━━━━━━━━━━━━
-##YANG UDAH LAMA PAKE TERMUX
+## YANG UDAH LAMA PAKE TERMUX
 
 $cd/sdcard/(file name/bot) 
 
